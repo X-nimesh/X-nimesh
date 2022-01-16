@@ -4,7 +4,7 @@
 <br>
 
 
-<p><img align="right" width="70%"src="https://github.com/X-nimesh/X-nimesh/blob/main/fcf7fd0c619bb87706533079240915f3.gif" alt="nimesh-gif" /></p>
+<p><img align="right" width="50%"src="https://github.com/X-nimesh/X-nimesh/blob/main/fcf7fd0c619bb87706533079240915f3.gif" alt="nimesh-gif" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
