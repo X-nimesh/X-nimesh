@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/nimesh-shrestha-89057716a/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/x-nimesh/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/X-nimesh/X-nimesh/main/linked-in-alt.svg"
       alt="Nimesh" height="30" width="40" /></a>
   <a href="https://www.fb.com/Xresta.Nimesh11" target="blank"><img align="center"
