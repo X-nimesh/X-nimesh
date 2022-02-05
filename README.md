@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nimesh Shrestha</h1>
+<h1 align="center">Hello World👋, I'm Nimesh🤖</h1>
+<h3 align="center">A Web Developer.🧑‍💻</h3>
 <h3 align="center">Student at Prime College, Kathmandu🌟.</h3>
 
 <br>
