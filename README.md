@@ -68,22 +68,22 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=X-nimesh&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=X-nimesh&theme=dark&show_icons=true&locale=en&layout=compact"
     alt="nimesh-stats" /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=X-nimesh&show_icons=true&locale=en"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=X-nimesh&theme=dark&show_icons=true&locale=en"
     alt="nimesh" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=X-nimesh&" alt="X-nimesh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=X-nimesh&theme=dark" alt="X-nimesh" /></p>
 
 <br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=X-nimesh" alt="X-nimesh" /></a> </p>
+      src="https://github-profile-trophy.vercel.app/?username=X-nimesh&theme=onedark" alt="X-nimesh" /></a> </p>
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
