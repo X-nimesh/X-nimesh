@@ -1,11 +1,11 @@
-<h1 align="center">Hello World👋, I'm Nimesh🤖</h1>
+<h1 align="center">Hey👋, I'm Nimesh🤖</h1>
 <h3 align="center">A Web Developer.🧑‍💻</h3>
 <h3 align="center">Student at Prime College, Kathmandu🌟.</h3>
 
 <br>
 
 
-<p><img align="right" width="60%" top-margin="10px "src="https://github.com/X-nimesh/X-nimesh/blob/main/fcf7fd0c619bb87706533079240915f3.gif" alt="nimesh-gif" /></p>
+<p><img align="left" width="60%" top-margin="10px "src="https://github.com/X-nimesh/X-nimesh/blob/main/fcf7fd0c619bb87706533079240915f3.gif" alt="nimesh-gif" /></p>
 <br>
 
 
