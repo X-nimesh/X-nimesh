@@ -7,7 +7,7 @@
 
 <p><img align="left" width="60%" top-margin="10px "src="https://github.com/X-nimesh/X-nimesh/blob/main/fcf7fd0c619bb87706533079240915f3.gif" alt="nimesh-gif" /></p>
 <br>
-<p align="right" top-margin="10px >
+<p align="right"  >
 
 - I’m currently learning Web Development and other programming languages
 
