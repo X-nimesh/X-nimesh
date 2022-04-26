@@ -1,4 +1,13 @@
-<h1 align="center">Hey👋, I'm Nimesh🤖</h1>
+<!-- <h1 align="center">Hey👋, I'm Nimesh🤖</h1> -->
+<br>
+<br>
+<p align="center">
+    <img align="center"
+      src="nimesh1.png"
+        alt="nimesh-intro" 
+        width="400"/>
+</p>
+<br>
 <h3 align="center">A Web Developer.🧑‍💻</h3>
 <h3 align="center">Student at Prime College, Kathmandu🌟.</h3>
 
