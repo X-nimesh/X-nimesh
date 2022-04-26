@@ -7,7 +7,6 @@
         alt="nimesh-intro" 
         width="400"/>
 </p>
-<br>
 <h3 align="center">A Web Developer.🧑‍💻</h3>
 <h3 align="center">Student at Prime College, Kathmandu🌟.</h3>
 
