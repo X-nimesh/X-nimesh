@@ -1,16 +1,18 @@
 <!-- <h1 align="center">Hey👋, I'm Nimesh🤖</h1> -->
 <br>
 <br>
-<!-- <p align="left"> -->
+<a href="https://github.com/X-nimesh" align="center">
+<p>
     <img align="center"
       src="nimesh1.png"
         alt="nimesh-intro" 
         width="300"/>
-<!-- </p> -->
+</p>
+</a>
 <!-- <h3 align="center">A Web Developer.🧑‍💻</h3>
 <h3 align="center">Student at Prime College, Kathmandu🌟.</h3> -->
 
-<!-- <br> -->
+ <br>
 
 
 <p align="right"><img align="right" width="50%" top-margin="10px" src="vector.gif" alt="nimesh-gif" /></p>
