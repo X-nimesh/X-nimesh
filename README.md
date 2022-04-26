@@ -7,14 +7,14 @@
 
 <p><img align="left" width="60%" top-margin="10px "src="https://github.com/X-nimesh/X-nimesh/blob/main/fcf7fd0c619bb87706533079240915f3.gif" alt="nimesh-gif" /></p>
 <br>
-
+<p>
 
 - I’m currently learning Web Development and other programming languages
 
 - How to reach me **X.nimesh7@gmail.com**📧
 
 - Fun fact :- Life without food and code is not worth living.😉🧑‍💻.
-
+</p>
 <br>
 
 <h3 align="left">Connect with me:</h3>
