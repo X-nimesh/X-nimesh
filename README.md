@@ -82,17 +82,12 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="40"
       height="40" /> 
       </a>
-       <a href="https://www.typescriptlang.org/lang.com" target="_blank" rel="noreferrer"> 
-      <img
-      src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true" alt="ts" width=""
+       <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> 
+     <img
+      src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logomark-colored%402x.png" alt="ts" width=""
       height="40" /> 
       </a>
-       <a href="https://www.typescriptlang.org/lang.com" target="_blank" rel="noreferrer"> 
-      <img
-      src="logo/logomark-colored%402x.png" alt="ts" width=""
-      height="40" /> 
-      </a>
-       </p>
+     </p>
 
 <br>
 
