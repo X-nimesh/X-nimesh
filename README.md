@@ -68,11 +68,31 @@
       alt="nodejs" width="40" height="40" /> </a>  <a href="https://www.photoshop.com/en" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      width="40" height="40" /> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+      <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
+      alt="react" width="40" height="40" />
+       </a>
+       <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+      <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+      height="40" /> 
+       <a href="https://www.typescriptlang.org/lang.com" target="_blank" rel="noreferrer"> 
+      <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="40"
+      height="40" /> 
+      </a>
+       <a href="https://www.typescriptlang.org/lang.com" target="_blank" rel="noreferrer"> 
+      <img
+      src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true" alt="ts" width=""
+      height="40" /> 
+      </a>
+       <a href="https://www.typescriptlang.org/lang.com" target="_blank" rel="noreferrer"> 
+      <img
+      src="logo/logomark-colored%402x.png" alt="ts" width=""
+      height="40" /> 
+      </a>
+       </p>
 
 <br>
 
