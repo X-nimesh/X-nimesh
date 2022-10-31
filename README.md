@@ -4,7 +4,7 @@
 <a href="https://github.com/X-nimesh" align="center">
 <p>
     <img align="center"
-      src="nimesh1.png"
+      src="new nimesh.png"
         alt="nimesh-intro" 
         width="300"/>
 </p>
