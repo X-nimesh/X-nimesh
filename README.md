@@ -84,9 +84,10 @@
       </a>
        <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> 
      <img
-      src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logomark-colored%402x.png" alt="ts" width=""
+      src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored.svg" alt="ts" width=""
       height="40" /> 
       </a>
+    
      </p>
 
 <br>
