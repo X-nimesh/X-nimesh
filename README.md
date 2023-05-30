@@ -39,7 +39,7 @@
       src="https://raw.githubusercontent.com/X-nimesh/X-nimesh/main/instagram.svg"
       alt="Xresta_niemsh" height="30" width="40" /></a>
  
-</p>
+
 
 <br>
 
