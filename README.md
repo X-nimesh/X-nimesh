@@ -50,8 +50,9 @@
 <br>
 <br>
 <br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="center" style="background:white; border-radius:10px; padding:20px ;gap:50px;">
+<div style="background:white; border-radius:10px; padding:20px ;gap:50px; color:black; ">
+<h3 align="left" >Languages and Tools:</h3>
+<p align="center" >
      <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
@@ -106,6 +107,7 @@
       height="40" />
       </a>
 </p>
+</div>
 
 
 
