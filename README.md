@@ -5,7 +5,7 @@
 <p>
     <img align="center"
       src="new nimesh.png"
-        alt="nimesh-intro" 
+        alt="nimesh-intro"
         width="300"/>
 </p>
 </a>
@@ -38,15 +38,21 @@
   <a href="https://www.instagram.com/xresta_nimesh/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/X-nimesh/X-nimesh/main/instagram.svg"
       alt="Xresta_niemsh" height="30" width="40" /></a>
- 
+
 
 
 <br>
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=X-nimesh&theme=dark&show_icons=true&locale=en&layout=compact"
+    alt="nimesh-stats" /></p>
 
+<br>
+<br>
+<br>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
+<p align="center" style="background:white; border-radius:10px; padding:20px ;gap:50px;">
+     <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> <img
@@ -65,39 +71,48 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a>  <a href="https://www.photoshop.com/en" target="_blank"
+      alt="nodejs" width="40" height="40" /> </a> <a href="https://nestjs.com//" target="_blank" rel="noreferrer">
+     <img
+      src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="ts" width=""
+      height="40" />
+      </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" >
+     <img
+      src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="ts" width=""
+      height="40" />
+      </a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+     <img
+      src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="ts" width=""
+      height="40" />
+      </a> <a href="https://www.photoshop.com/en" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-      <img
+      width="40" height="40" /> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+              <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" />
        </a>
-       <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+       <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
       <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> 
-       <a href="https://www.typescriptlang.org/lang.com" target="_blank" rel="noreferrer"> 
+      height="40" />
+       <a href="https://www.typescriptlang.org/lang.com" target="_blank" rel="noreferrer">
       <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="40"
-      height="40" /> 
+      height="40" />
       </a>
-       <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> 
+       <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
      <img
       src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored.svg" alt="ts" width=""
-      height="40" /> 
+      height="40" />
       </a>
-    
-     
+</p>
+
+
+
 
 <br>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=X-nimesh&theme=dark&show_icons=true&locale=en&layout=compact"
-    alt="nimesh-stats" /></p>
 
-<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=X-nimesh&theme=dark&show_icons=true&locale=en"
     alt="nimesh" /></p>
