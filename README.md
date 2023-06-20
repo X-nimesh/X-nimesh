@@ -19,12 +19,12 @@
 <br>
 <p align="left"  >
 
-- I’m currently learning Web Development and other programming languages
+- Back End Developer at <a href="https://codehimalaya.com/">**Code Himalaya**</a>
 
-- How to reach me **contact@nimesh11.com.np**📧
+- How to reach me: 📩  **contact@nimesh11.com.np** 
 - x.nimesh7@gmail.com
 
-- Fun fact :- Life without food and code is not worth living.😉🧑‍💻.
+- Fun fact:- Life without food and code is not worth living.😉🧑‍💻.
 </p>
 <br>
 
