@@ -21,7 +21,8 @@
 
 - I’m currently learning Web Development and other programming languages
 
-- How to reach me **X.nimesh7@gmail.com**📧
+- How to reach me **contact@nimesh11.com.np**📧
+- x.nimesh7@gmail.com
 
 - Fun fact :- Life without food and code is not worth living.😉🧑‍💻.
 </p>
