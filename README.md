@@ -19,11 +19,15 @@
 <br>
 <p align="left"  >
 
-- Back End Developer at <a href="https://codehimalaya.com/">**Code Himalaya**</a>
+- Back End Developer at <a href="https://ebpearls.com.au/">**EB Pearls**</a>
 
-- How to reach me: 📩  **contact@nimesh11.com.np** 
-- x.nimesh7@gmail.com
+- How to reach me: 📩 
+  - **contact@nimesh11.com.np** 
+  - x.nimesh7@gmail.com
 
+- **Portfolio Websites**
+  - [**nimesh11.com.np**](https://nimesh11.com.np/)
+  - [nimesh.info.np](https://nimesh.info.np/)
 - Fun fact:- Life without food and code is not worth living.😉🧑‍💻.
 </p>
 <br>
