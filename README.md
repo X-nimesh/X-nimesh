@@ -58,6 +58,7 @@
 <div style="background:white; border-radius:10px; padding:20px ;gap:50px; color:black; ">
 <h3 align="left" >Languages and Tools:</h3>
 
+
 <!-- SKILL LOGOS - Categorized -->
 <h4 align="center" >
 Architecture / DevOps
@@ -112,16 +113,16 @@ Backend Technologies
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40" height="40"/>
   </a>
   <a href="https://grpc.io/" target="_blank" rel="noreferrer">
-    <img src="https://grpc.io/img/logos/grpc-icon-color.svg" width="40" height="40"/>
+    <img src="https://grpc.io/img/logos/grpc-logo.png" width="40" height="40"/>
   </a>
   <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4" width="40" height="40"/>
   </a>
   <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="40" height="40"/>
   </a>
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" width="40" height="40"/>
+    <img src="https://www.rabbitmq.com/img/rabbitmq-logo.svg" width="40" height="40"/>
   </a>
 </p>
 <h4 align="center" >
@@ -135,7 +136,7 @@ Databases
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mongodb/mongodb-original-wordmark.svg" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
@@ -149,13 +150,13 @@ Frontend Technologies
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
   </a>
   <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored.svg" height="40"/>
+    <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored-white%402x.png" height="40"/>
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
@@ -174,7 +175,7 @@ Designing
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/>
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/photoshop/photoshop-original.svg" width="40" height="40"/>
   </a>
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="40" height="40"/>
