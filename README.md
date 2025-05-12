@@ -64,7 +64,7 @@
 Architecture / DevOps
 </h4>
 
-<p align="center">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
   </a>
@@ -99,9 +99,9 @@ Architecture / DevOps
 <h4 align="center" >
 Backend Technologies
 </h4>
-<p align="center">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://nodejs.org/static/logos/nodejsLight.svg" width="40" height="40"/>
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" height="40"/>
@@ -128,7 +128,7 @@ Backend Technologies
 <h4 align="center" >
 Databases
 </h4>
-<p align="center">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="40"/>
   </a>
@@ -145,7 +145,7 @@ Databases
 <h4 align="center" >
 Frontend Technologies
 </h4>
-<p align="center">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
   </a>
@@ -170,7 +170,7 @@ Frontend Technologies
 <h4 align="center" >
 Designing
 </h4>
-<p align="center">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/>
   </a>
