@@ -1,34 +1,31 @@
 <!-- <h1 align="center">Hey👋, I'm Nimesh🤖</h1> -->
 <br>
 <br>
+<p align="center">
 <a href="https://github.com/X-nimesh" align="center">
-<p>
     <img align="center"
       src="new nimesh.png"
         alt="nimesh-intro"
         width="300"/>
-</p>
 </a>
+</p>
 <!-- <h3 align="center">A Web Developer.🧑‍💻</h3>
 <h3 align="center">Student at Prime College, Kathmandu🌟.</h3> -->
-
  <br>
-
-
 <p align="right"><img align="right" width="50%" top-margin="10px" src="vector.gif" alt="nimesh-gif" /></p>
-<br>
+
 <p align="left"  >
 
-- Back End Developer at <a href="https://ebpearls.com.au/">**EB Pearls**</a>
+- Back End Developer at <a href="https://www.lftechnology.com/">**Leapfrog Technology**</a>
 
 - How to reach me: 📩 
-  - **contact@nimesh11.com.np** 
   - x.nimesh7@gmail.com
 
 - **Portfolio Websites**
-  - [**nimesh11.com.np**](https://nimesh11.com.np/)
   - [nimesh.info.np](https://nimesh.info.np/)
-- Fun fact:- Life without food and code is not worth living.😉🧑‍💻.
+  - [**nimesh11.com.np**](https://nimesh11.com.np/)
+- Fun fact:
+    - Life without food and code is not worth living.😉🧑‍💻.
 </p>
 <br>
 
